@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<Metro>
+    <Station>
+        <Id>0</Id>
+        <Name>Planernaya</Name>
+        <AverageArrival>0.15</AverageArrival>
+        <LinkedStations>
+            <LinkedStation>
+                <Id>1</Id>
+                <RoadTime>10</RoadTime>
+            </LinkedStation>
+            <LinkedStation>
+                <Id>2</Id>
+                <RoadTime>15</RoadTime>
+            </LinkedStation>
+        </LinkedStations>
+    </Station>
+</Metro>
